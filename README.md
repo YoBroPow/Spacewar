@@ -1,2 +1,2 @@
 # Spacewar
-Spacewar remake in python
+ game lmao
